@@ -50,17 +50,3 @@ This assignment aims to familiarize you with the tools and configurations necess
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
-#Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
-
-#Submission:
-Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
-
-#Evaluation Criteria:**
-- Completeness and accuracy of setup documentation.
-- Effectiveness of version control implementation.
-- Appropriateness of tools selected for the project requirements.
-- Clarity of reflection on challenges and solutions encountered.
-- Adherence to submission guidelines and deadlines.
